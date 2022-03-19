@@ -1,0 +1,26 @@
+EFEKTY
+
+Bąbel podążający za kursorem lub zamiast kursora, powiększający sie po najechaniu na link, lub/i zmieniajacy kolo/ksztalt/wielkosc po najechaniu na zdjęcie-obraz.
+Dodatkowo na nim moze sie pojawiac napis lub ikona po najechaniu na odpowiedni element.
+Kropka np czarna po najechaniu na link - negatyw =biała czcionkaale tylko na tle kropki.
+
+Napis/nagłówek/opis przejezdzajacy w bok po zjechaniu scrollem w dol strony.
+
+Powiększenie się zdjęcia - przyblizenie po najechaniu.
+
+Przełączanie na dark-mode, przycisk, lub po zadanej godzinie.
+
+Za kazdym razem przeladowania strony lub klikniecia strony zmienia sie jej kolor/kolory np losowo ae z okreslonego zbioru
+
+Zaczac portfolio od swojego duzego zdjecia ktore odda moj charakter
+
+About zrobic jako modal z lekkim przycmienie tla w ktorym pojawiaja sie zdjeica opisujace nie, a sam tekst jest na wierzchu
+
+Z mojego logo zrobic gifa jak W przemimeszcza sie po 'D'
+
+Nie białe - tylko lekkko szarawe/ecru cale tlo strony.
+
+
+TREŚĆ
+-zakladka proces  jakas fajna wizualizacja tworzenia storny/logo- inspiracja SabatoStudio
+-w fejkowej stronie portfolio mozna dodac marki z ktorymi wspolpracuje i ich loga
